@@ -10,3 +10,10 @@
 :x: | Lets you edit the list/Remove tasks when completed
 :heavy_exclamation_mark: | Arranges tasks according to your priority
 
+## Installation
+
+```sh
+git clone 
+cd CSC690
+open todoList.xcodeproj
+```
