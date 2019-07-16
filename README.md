@@ -3,7 +3,6 @@
 
 #Features
 
-<p align="center">
  |         | Features  |
 ----------|-----------------
 :zero: | _Inbox Zero_ your notifications
