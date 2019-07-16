@@ -5,9 +5,8 @@
 
  |         | Features  |
 ----------|-----------------
-:zero: | _Inbox Zero_ your notifications
-:pencil: | Comment even faster than on GitHub desktop
-:thumbsup: | The only app with emoji reactions!
-:zap: | Native markdown rendering
-:octocat: | 100% free and open source
+:heavy_plus_sign: | Adds tasks to your to-do list
+:heavy_check_mark: | Lets you check mark the tasks that are done
+:x: | Lets you edit the list/Remove tasks when completed
+:heavy_exclamation_mark: | Arranges tasks according to your priority
 
