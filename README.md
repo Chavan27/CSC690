@@ -12,7 +12,7 @@
 
 
 
-<img src="https://github.com/Chavan27/CSC690/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202019-07-14%20at%2021.35.32.png" width="30%"/> <img src="https://github.com/Chavan27/CSC690/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202019-07-14%20at%2021.36.31.png" width="30%"/>
+<p align="center"><img src="https://github.com/Chavan27/CSC690/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202019-07-14%20at%2021.35.32.png" width="30%"/> <img src="https://github.com/Chavan27/CSC690/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202019-07-14%20at%2021.36.31.png" width="30%"/>
 
 
 ## Getting Started
